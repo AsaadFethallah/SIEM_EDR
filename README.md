@@ -99,4 +99,4 @@ Des recherches proactives ont été réalisées pour identifier des comportement
 
 - Windows : surveillance des Event ID 4625 (échecs de login)
 
-- Windows : détection de création de comptes via logs d’audit et Sysmon
+- Windows : détection de création de comptes via logs d’audit
